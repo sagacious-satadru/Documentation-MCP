@@ -1,0 +1,67 @@
+# --- Python ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+dist/
+build/
+wheels/
+*.egg-info/
+*.egg
+*.tar.gz
+*.whl
+
+# --- Virtual Environments ---
+# Common virtual environment directory names
+.venv/
+venv/
+env/
+ENV/
+*/env/
+*/venv/
+
+# Configuration file specific to venv
+pyvenv.cfg
+
+# Environment variables file (often contains secrets)
+.env*
+
+# --- IDE / Editor Files ---
+# VS Code specific folder (user settings, state, launch configs etc.)
+# Only commit .vscode/settings.json, launch.json, tasks.json, extensions.json
+# if they contain project-specific configurations you want to share.
+.vscode/
+
+# PyCharm specific folder
+.idea/
+
+# --- Testing ---
+.pytest_cache/
+.tox/
+htmlcov/
+.coverage
+*.cover
+nosetests.xml
+coverage.xml
+
+# --- Operating System Files ---
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+
+# --- Specific Files from Your Project ---
+# Cache file seen in your project list
+CACHEHDIR.TAG
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Other ---
+# Add any other generated files, temporary files, or sensitive data files here
