@@ -6,7 +6,7 @@ A Model Context Protocol (MCP) server that enables Claude to search and access d
 
 MCP (Model Context Protocol) is an open protocol that standardizes how applications provide context to Large Language Models. Think of it as a universal connector that lets AI assistants like Claude access external data sources and tools.
 
-![MCP Architecture](MCP_arch_explained_by_GPT_4o.png)
+![MCP Architecture](MCP_arch_explained.png)
 
 
 ![MCP Architecture](mcp-diagram-bg.png)
